@@ -14,9 +14,9 @@ Task Manager App is a web application designed to help users manage their tasks.
 
  Technologies Used
   
-  HTML - For the structure of the application.
-  CSS - For styling and layout.
-  JavaScript - For interactivity and task management.
+ * HTML - For the structure of the application.
+ * CSS - For styling and layout.
+ * JavaScript - For interactivity and task management.
 
  Usage
 
